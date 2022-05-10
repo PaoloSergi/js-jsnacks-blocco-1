@@ -1,0 +1,3 @@
+crea 2 tag div con due id diversi. un div avra il testo colorato di rosso mentre l'altro verde
+partendo da un array di numeri (20 numeri generati automaticamente tra 1 e 1000)
+stampiamo nell div in rosso i numeri dispari e nel verde i numeri pari

@@ -1,0 +1,5 @@
+abbiamo 2  array di partenza: il primo di 5 stringhe, il secondo di 2 stringhe
+abbiamo un ul di partenza
+dobbiamo stampare dentro questo ul, dove ogni LI ha come
+ contenuto principale in ordine, le parole del primo array e come sotto-contenuto 
+annidato le 2 parole del secondo array in una UL annidata
